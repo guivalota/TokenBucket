@@ -8,3 +8,4 @@ obj/project.assets.json
 obj/project.nuget.cache
 obj/TokenBucket.csproj.nuget.dgspec.json
 TokenBucket.sln
+/obj/Debug
